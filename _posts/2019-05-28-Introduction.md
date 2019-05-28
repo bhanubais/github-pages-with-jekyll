@@ -1,1 +1,4 @@
-This is a quick draft for Indtroduction.
+---
+title: "Welcome to my blog"
+date: 2019-05-28
+---
